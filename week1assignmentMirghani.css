@@ -1,0 +1,14 @@
+.home {
+    display:block;
+    margin-top: 0.5 em;
+    margin-bottom: 0.5 em;
+}
+
+.article {
+    border-bottom: 1px solid;
+    padding-bottom: 18%;
+}
+
+#paragraph {
+    background-color: #000;
+}
